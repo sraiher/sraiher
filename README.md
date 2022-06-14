@@ -4,9 +4,9 @@
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sandra-raiher-90aa131b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
 
 ## About me
-🎓&nbsp;Graduated in **Direito **
+🎓&nbsp;Graduated in **Direito**
 <br/>🌱&nbsp;Learning about **Estruturas de Banco de Dados**
-<br/>💡&nbsp;I'm interested about **Banco de Dados**
+<br/>💡&nbsp;I'm interested about **Banco de Dados**, **Análise de Dados**, **Python**
 <br/>😄&nbsp;Pronouns **Ela/She**
 <br/>📫&nbsp;Reach me [sraiher@gmil.com](mailto:sraiher@gmil.com)
 
